@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My project takes two inputs, combines them with an AND gate, and the output turns on a LED if both inputs connected to the AND gate are turned on.
 
 ## How to test
 
-Explain how to use your project
+This is tested by turning on different inputs with switches.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Single LED.
